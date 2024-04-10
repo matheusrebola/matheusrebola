@@ -3,7 +3,7 @@
 - Sou desenvolvedor backe-end. Sou interessado em desenvolvimento de software, análise de dados e network and security.
 - Em meu tempo livre gosto de trabalhar e acompanhar projetos Open Source.
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,typescript,react,angular,nodejs,python,java,kafka,scala,r,postgresql,mysql,docker,aws,linux)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=typescript,react,nodejs,python,java,scala,r,postgresql,mongodb,redis,docker,aws,linux)](https://skillicons.dev)<br/>
 
 <div align="center">
   
