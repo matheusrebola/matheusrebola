@@ -1,4 +1,4 @@
-[![SkillIcons](https://skillicons.dev/icons?i=typescript,react,nodejs,python,java,scala,r,postgresql,mongodb,redis,docker,aws,linux)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=typescript,terraform,swift,python,java,r,postgresql,kafka,rabbitmq,prometheus,mongodb,redis,docker,aws,linux,kubernetes)](https://skillicons.dev)<br/>
 
 <div align="center">
   
